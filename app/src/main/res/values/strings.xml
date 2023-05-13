@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">mylovelyproject</string>
+    <string name="create_group">Create Group</string>
+    <string name="create_student">Create Student</string>
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+
+    <string name="group_no">Group No</string>
+    <string name="group_faculty">Faculty</string>
+
+    <string name="student_firstname">Firstname</string>
+    <string name="student_lastname">Lastname</string>
+    <string name="student_patronymic">Patronymic</string>
+    <string name="student_dateofbirth">Date of birth</string>
+    <string name="empty_list">No elements</string>
+    <string name="search_student">Search student</string>
+
+
+</resources>
